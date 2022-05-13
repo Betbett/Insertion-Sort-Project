@@ -1,4 +1,4 @@
-[Patika](www.patika.dev)
+[Patika](https://www.patika.dev/)
 # Insertion-Sort-Project
 0. [22, 27, 26, 2, 18, 6]
 1. [2, 27, 16, 22, 18, 6]
